@@ -1,0 +1,7 @@
+requests
+redis
+python-dotenv
+google-genai
+beautifulsoup4
+lxml
+colorama

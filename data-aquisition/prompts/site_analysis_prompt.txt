@@ -1,0 +1,17 @@
+Analyze the following sitemap which contains a list of URLs and their corresponding link texts from the website {base_url}. Your goal is to identify the most important pages for extracting restaurant information.
+
+Return a JSON object with the following structure:
+{
+  "menu_urls": ["url1", "url2", ...],
+  "contact_urls": ["url1", "url2", ...],
+  "about_urls": ["url1", "url2", ...]
+}
+
+- "menu_urls" should contain absolute URLs that likely lead to food, drink, or wine menus.
+- "contact_urls" should contain absolute URLs for pages with contact information, addresses, or opening hours.
+- "about_urls" should contain absolute URLs for pages describing the restaurant's story or general information.
+
+Prioritize URLs based on the link text provided. If a category has no relevant URLs, return an empty list for it. Only include the most relevant URLs.
+
+Sitemap to Analyze:
+{sitemap}

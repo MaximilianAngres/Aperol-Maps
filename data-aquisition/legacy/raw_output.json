@@ -1,0 +1,2097 @@
+[
+  {
+    "name": "Trinity Bar Venue",
+    "address": "46-49 Dame Street, Dublin, Ireland.",
+    "location": null,
+    "source_metadata": {
+      "source_url": "https://trinitybarvenue.ie/gastropub-menu/",
+      "extraction_timestamp_utc": "2025-07-23T16:05:03.365018+00:00",
+      "extraction_status": "NO_MENU_FOUND",
+      "menu_format": "PLAIN_TEXT",
+      "llm_confidence_score": "1",
+      "detected_currency": null,
+      "detected_language": "en",
+      "opening_hours": {
+        "monday": "08:00-01:00",
+        "tuesday": "08:00-01:00"
+      },
+      "social_media_links": {
+        "instagram": "http://instagram.com/trinitybar_venue/",
+        "facebook": "https://www.facebook.com/TrinityBarVenue/"
+      },
+      "initial_source_url": "https://trinitybarvenue.ie/"
+    },
+    "menu": []
+  },
+  {
+    "name": "Bow Lane Social Club",
+    "address": "17 Aungier St, Dublin 2, D02 XF38",
+    "location": null,
+    "source_metadata": {
+      "source_url": "https://bowlanesocialclub.ie/drinks-menu/",
+      "extraction_timestamp_utc": "2025-07-23T16:09:06.645769+00:00",
+      "extraction_status": "NO_MENU_FOUND",
+      "menu_format": "IMAGE",
+      "llm_confidence_score": "1",
+      "detected_currency": null,
+      "detected_language": "en",
+      "opening_hours": {
+        "monday": null,
+        "tuesday": null
+      },
+      "social_media_links": {
+        "instagram": "http://instagram.com/bowlanesocialclub/",
+        "facebook": "http://facebook.com"
+      },
+      "initial_source_url": "https://bowlanesocialclub.ie/"
+    },
+    "menu": []
+  },
+  {
+    "name": "La Cave",
+    "address": null,
+    "location": null,
+    "source_metadata": {
+      "source_url": "https://drive.google.com/file/d/1x5VdwVB3FBChyGDw0DX3W4KYXMzQ4XI4/view?usp=sharing",
+      "extraction_timestamp_utc": "2025-07-23T16:10:02.181435+00:00",
+      "extraction_status": "NO_MENU_FOUND",
+      "menu_format": "PDF_DOCUMENT",
+      "llm_confidence_score": "1",
+      "detected_currency": null,
+      "detected_language": "de",
+      "opening_hours": {
+        "monday": null,
+        "tuesday": null
+      },
+      "social_media_links": {
+        "instagram": null,
+        "facebook": null
+      },
+      "initial_source_url": "http://lacavewinebar.com/"
+    },
+    "menu": []
+  },
+  {
+    "name": "The Hairy Lemon",
+    "address": "41-42 Stephen Street Lower, Dublin 2",
+    "location": null,
+    "source_metadata": {
+      "source_url": "https://thehairylemon.ie/bar-menu/",
+      "extraction_timestamp_utc": "2025-07-23T16:14:07.677596+00:00",
+      "extraction_status": "NO_MENU_FOUND",
+      "menu_format": "PLAIN_TEXT",
+      "llm_confidence_score": "1",
+      "detected_currency": null,
+      "detected_language": "en",
+      "opening_hours": {
+        "monday": "10:00-23:30",
+        "tuesday": "10:00-23:30"
+      },
+      "social_media_links": {
+        "instagram": "https://www.instagram.com/the_hairy_lemon1/",
+        "facebook": "https://www.facebook.com/thehairylemonbar/"
+      },
+      "initial_source_url": "https://thehairylemon.ie/"
+    },
+    "menu": []
+  },
+  {
+    "name": "South City Drinks",
+    "address": null,
+    "location": null,
+    "source_metadata": {
+      "source_url": "https://www.yamamori.ie/s/South-City-Drinks-Winter-2024-4sb3.pdf",
+      "extraction_timestamp_utc": "2025-07-23T16:14:46.432924+00:00",
+      "extraction_status": "SUCCESS",
+      "menu_format": "PDF_DOCUMENT",
+      "llm_confidence_score": 9,
+      "detected_currency": "EUR",
+      "detected_language": "en",
+      "opening_hours": null,
+      "social_media_links": null,
+      "initial_source_url": "https://yamamori.ie/southcity"
+    },
+    "menu": [
+      {
+        "name": "NAMA LYCHEE",
+        "price": 15.0,
+        "description": "Shochu, lychee liqueur, sloe gin, lime juice, lychee juice & simple syrup.",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "SPICY ASIAN",
+        "price": 14.5,
+        "description": "Sake, lychee liqueur, lime juice, vanilla syrup, chilli & ginger.",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "PASSIONATE LOVER",
+        "price": 15.0,
+        "description": "Plantation rum, apricot brandy, passionfruit purée, lemon juice, sugar syrup & egg white. (e)",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "TOKI SOUR",
+        "price": 15.0,
+        "description": "Suntory Toki whisky, Umeshu plum sake, lemon juice, orange juice, lemongrass syrup, egg white & plum bitters. (s) (e)",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "WINTER LADY",
+        "price": 15.5,
+        "description": "Roku gin, Drambuie, lemon juice, lemongrass syrup, egg whites & a spring of rosemary. (e)",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "GEISHA NEGRONI",
+        "price": 15.0,
+        "description": "Dingle gin, sloe gin, Aperol, Umeshu plum sake & orange bitters.",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "SAKE-TINI",
+        "price": 14.5,
+        "description": "Thyme and rosemary infused Shoshu, Plum sake, dry vermouth, sugar syrup & peach bitters.",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "ROZU MARGARITA",
+        "price": 15.5,
+        "description": "Jose Cuervo Tradicional Reposado, lychee liqueur, raspberry liqueur, raspberry purée, lime juice and cherry syrup.",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "NUTTY DELICE",
+        "price": 15.0,
+        "description": "Suntory Toki whisky, Genshu sake & Frangelico hazelnut liqueur. (w) (tn)",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "FUYU BLOSSOM",
+        "price": 15.0,
+        "description": "Roku gin, Sloe gin, non alcoholic elderflower liqueur & winter syrup made of pear, star anise, cinnamon & sake.",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "SATORI SIP",
+        "price": 14.5,
+        "description": "Warm concoction of Plantation dark rum, Taruzake, camomile tea & cloves syrup.",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "SPRITZ SELECTION",
+        "price": 14.5,
+        "description": "Your choice of liqueur with prosecco & soda water. (ask your waiter for the selection)",
+        "category": "COCKTAILS"
+      },
+      {
+        "name": "Champagne Gremillet Brut Selection NV, France",
+        "price": 140,
+        "description": null,
+        "category": "SPARKLING/ROSE"
+      },
+      {
+        "name": "Organic Sora Loc Perlage, Prosecco Frizzante DOC, Veneto, Italy",
+        "price": 9.5,
+        "description": null,
+        "category": "SPARKLING/ROSE"
+      },
+      {
+        "name": "Organic Emiliana Eco, Cinsault Syrah Rose, Maipo Valley, Chile",
+        "price": 10.2,
+        "description": null,
+        "category": "SPARKLING/ROSE"
+      },
+      {
+        "name": "El Caminador, Sauvignon Blanc, Central Valley, Chile",
+        "price": 9.0,
+        "description": null,
+        "category": "WHITE WINES"
+      },
+      {
+        "name": "Les Argilières, Viognier Grand Cuvée IGP, Languedoc, France",
+        "price": 10.2,
+        "description": null,
+        "category": "WHITE WINES"
+      },
+      {
+        "name": "Organic Perlage, Pinot Grigio IGP, Veneto, Italy",
+        "price": 11.5,
+        "description": null,
+        "category": "WHITE WINES"
+      },
+      {
+        "name": "3Rios, Albarinho, Vinho Verde, Portugal",
+        "price": 12.5,
+        "description": null,
+        "category": "WHITE WINES"
+      },
+      {
+        "name": "Paso del Sol, Cabernet Sauvignon, Central Valley, Chile",
+        "price": 9.0,
+        "description": null,
+        "category": "RED WINES"
+      },
+      {
+        "name": "Organic Emiliana Eco, Pinot noir, Central Valley, Chile",
+        "price": 10.2,
+        "description": null,
+        "category": "RED WINES"
+      },
+      {
+        "name": "Organic Malbec, Domaine Bousquet, Mendoza, Argentina",
+        "price": 11.5,
+        "description": null,
+        "category": "RED WINES"
+      },
+      {
+        "name": "Tempranillo, Llebre, Costers del Segre, Spain",
+        "price": 12.5,
+        "description": null,
+        "category": "RED WINES"
+      },
+      {
+        "name": "Roku",
+        "price": 8.0,
+        "description": null,
+        "category": "JAPANESE GIN"
+      },
+      {
+        "name": "Kinobi",
+        "price": 13.0,
+        "description": null,
+        "category": "JAPANESE GIN"
+      },
+      {
+        "name": "Nikka Coffey",
+        "price": 16.0,
+        "description": null,
+        "category": "JAPANESE GIN"
+      },
+      {
+        "name": "Suntory Chita",
+        "price": 10.0,
+        "description": null,
+        "category": "JAPANESE WHISKY"
+      },
+      {
+        "name": "Nikka Super Old Rare",
+        "price": 13.5,
+        "description": null,
+        "category": "JAPANESE WHISKY"
+      },
+      {
+        "name": "Nikka Miyagikyo Single Malt",
+        "price": 14.0,
+        "description": null,
+        "category": "JAPANESE WHISKY"
+      },
+      {
+        "name": "Nikka From The Barrel",
+        "price": 14.5,
+        "description": null,
+        "category": "JAPANESE WHISKY"
+      },
+      {
+        "name": "Suntory Yamazaki",
+        "price": 14.5,
+        "description": null,
+        "category": "JAPANESE WHISKY"
+      },
+      {
+        "name": "Suntory Hibiki Harmony",
+        "price": 16.0,
+        "description": null,
+        "category": "JAPANESE WHISKY"
+      },
+      {
+        "name": "Lager - Asahi",
+        "price": 4.7,
+        "description": null,
+        "category": "DRAFT"
+      },
+      {
+        "name": "Lager- Asahi",
+        "price": 6.7,
+        "description": null,
+        "category": "BOTTLES"
+      },
+      {
+        "name": "Asahi Alcohol Free",
+        "price": 6.0,
+        "description": null,
+        "category": "BOTTLES"
+      },
+      {
+        "name": "Peroni Gluten Free",
+        "price": 7.0,
+        "description": null,
+        "category": "BOTTLES"
+      },
+      {
+        "name": "Takara Aomori Apple",
+        "price": 8.0,
+        "description": null,
+        "category": "CHU-HI"
+      },
+      {
+        "name": "Takara Yamanashi Peach",
+        "price": 8.0,
+        "description": null,
+        "category": "CHU-HI"
+      },
+      {
+        "name": "Takara Kochi Yuzu",
+        "price": 8.0,
+        "description": null,
+        "category": "CHU-HI"
+      },
+      {
+        "name": "Shirakabegura MIO Sparkling",
+        "price": 29.0,
+        "description": "This sparkling sake has a pleasing flavor of pear and grapes. The gently sweet flavor combines with a moderate acidity, which makes this sake a particularly delightful aperitif",
+        "category": "SAKE"
+      },
+      {
+        "name": "Shirakabegura Junmai Daiginjo",
+        "price": 49.0,
+        "description": "Both fragrant and fruity with an unctuous texture, it expresses subtle aromas of pear, melon and banana and a sweetness that suggests honey.",
+        "category": "SAKE"
+      },
+      {
+        "name": "Shirakabegura Kimoto Ginjo",
+        "price": 22.0,
+        "description": "Its smooth and round aroma profile, wrapped in a silky texture, reveals notes of apple, pear, and dried fruit, as well as a light acidity and a tasty umami",
+        "category": "SAKE"
+      },
+      {
+        "name": "Asahi Shuzo Dassai 45",
+        "price": 36.0,
+        "description": "Textured and luxurious with a fine finish. One of the most famous Junmai Daiginjo Sake in the world.",
+        "category": "SAKE"
+      },
+      {
+        "name": "Kikumasamune Taruzake Junmai Tokkuri",
+        "price": 19.0,
+        "description": "This premium sake, rested in cedar wood barrels, is rounded and pleasing with earthy wood spice incense, peppercorn, pine, green apple and blossom flavours.",
+        "category": "SAKE"
+      },
+      {
+        "name": "Kikumasamune Junmai Kojo",
+        "price": 16.0,
+        "description": "This sake is brewed using the brewer's newly invented original yeast. This new yeast brings out the fruity Ginjo characteristics. Nose of crisp apple & is delicate sweetness uniquely balanced with the umami of Junmai.",
+        "category": "SAKE"
+      },
+      {
+        "name": "Hakkaisan Nigori Umeshu",
+        "price": 10.0,
+        "description": "Hakkaisan's Nigori Umeshu is made with 100% domestic plums which are soaked in Hakkaisan shochu to produce the Nigori umeshu. The pleasant aroma and deep taste come from the added plum pulp. Enjoy this rich Umeshu on ice, pure or with sparkling water.",
+        "category": "SAKE"
+      },
+      {
+        "name": "Coca-Cola",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Coca-Cola Zero",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Coca-Cola Diet",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Sprite Zero",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Fanta Orange",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Fever Tree Club Soda",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Fever Tree Tonic Water",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Fever Tree Elderflower",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Fever Tree Ginger Ale",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Fever Tree Ginger Beer",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Fever Tree Sparkling Grapefruit",
+        "price": 3.95,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "Juice (orange,apple,cranberry, pineapple)",
+        "price": 3.75,
+        "description": null,
+        "category": "SOFT DRINKS"
+      },
+      {
+        "name": "MANGO",
+        "price": 6.5,
+        "description": "Mango purée, lemon juice, sugar syrup & sparkling water.",
+        "category": "YAMONADES"
+      },
+      {
+        "name": "PASSIONFRUIT",
+        "price": 6.5,
+        "description": "Passionfruit purée, lemon juice, sugar syrup & sparkling water.",
+        "category": "YAMONADES"
+      },
+      {
+        "name": "STRAWBERRY",
+        "price": 6.5,
+        "description": "Strawberry purée, lemon juice, sugar syrup & sparkling water.",
+        "category": "YAMONADES"
+      },
+      {
+        "name": "LYCHEE",
+        "price": 6.5,
+        "description": "Lychee juice, lemon juice, sugar syrup & sparkling water.",
+        "category": "YAMONADES"
+      }
+    ]
+  },
+  {
+    "name": "The Port House",
+    "address": null,
+    "location": null,
+    "source_metadata": {
+      "source_url": "https://www.porthouse.ie/_files/ugd/cbf553_ff7e602fd0f547e991a9e15b2a06d1f5.pdf",
+      "extraction_timestamp_utc": "2025-07-23T16:18:58.963978+00:00",
+      "extraction_status": "SUCCESS",
+      "menu_format": "PDF_DOCUMENT",
+      "llm_confidence_score": 9,
+      "detected_currency": null,
+      "detected_language": "en",
+      "opening_hours": null,
+      "social_media_links": {
+        "instagram": null,
+        "facebook": null
+      },
+      "initial_source_url": "http://porthouse.ie/"
+    },
+    "menu": [
+      {
+        "name": "PAN CON ALIOLI, TOMAQUET, HUMMUS, ACEITE DE OLIVA & BALSAMICO",
+        "price": null,
+        "description": "Bread with alioli, crushed tomatoes, hummus, olive oil & balsamic",
+        "category": "PRIMEIRO"
+      },
+      {
+        "name": "ENSALADA RUSSA",
+        "price": null,
+        "description": "Spanish potato salad with garden peas, carrot, egg and mayonnaise",
+        "category": "PRIMEIRO"
+      },
+      {
+        "name": "PIMIENTOS DE PADRÓN",
+        "price": null,
+        "description": "Fried green padrón peppers with Maldon sea salt",
+        "category": "SEGUNDO"
+      },
+      {
+        "name": "TORTILLA ESPAÑOLA",
+        "price": null,
+        "description": "Traditional Spanish potato & onion omelette",
+        "category": "SEGUNDO"
+      },
+      {
+        "name": "TXISTORRAS",
+        "price": null,
+        "description": "Grilled Navarran Chorizo sausages on toasted Galician bread",
+        "category": "SEGUNDO"
+      },
+      {
+        "name": "PAELLA DE POLLO",
+        "price": null,
+        "description": "Traditional Spanish rice dish with chicken",
+        "category": "TERCERO"
+      },
+      {
+        "name": "ALBONDIGAS",
+        "price": null,
+        "description": "Meatballs in a rich tomato sauce",
+        "category": "TERCERO"
+      },
+      {
+        "name": "CALAMARES A LA ANDALUZA",
+        "price": null,
+        "description": "Strips of squid in seasoned flour with lemon, served with black alioli",
+        "category": "TERCERO"
+      },
+      {
+        "name": "PATATAS BRAVAS & ALIOLI",
+        "price": null,
+        "description": "Deep fried potato cubes served with traditional bravas and alioli sauces",
+        "category": "TERCERO"
+      },
+      {
+        "name": "ESCALIVADA",
+        "price": null,
+        "description": "Grilled mixed vegetables with a honey lemon dressing",
+        "category": "TERCERO"
+      },
+      {
+        "name": "CHURROS CON CHOCOLATE",
+        "price": null,
+        "description": "Spanish doughnuts coated in sugar, served with chocolate sauce",
+        "category": "DESSERT"
+      },
+      {
+        "name": "ALMENDRAS Y ACEITUNAS",
+        "price": null,
+        "description": "Roasted salted almonds in hot paprika & marinated olives",
+        "category": "SEGUNDO"
+      },
+      {
+        "name": "TOSTAS DE CHAMPIÑONES",
+        "price": null,
+        "description": "Creamy chestnut mushrooms on toasted Galician bread",
+        "category": "SEGUNDO"
+      },
+      {
+        "name": "PAELLA DE VERDURA",
+        "price": null,
+        "description": "Traditional Spanish rice dish with vegetables",
+        "category": "TERCERO"
+      },
+      {
+        "name": "GARBANZOS MORUNOS",
+        "price": null,
+        "description": "Chickpea stew of Mediterranean vegetables with Morrocan spices",
+        "category": "TERCERO"
+      },
+      {
+        "name": "COLIFLOR REBOZADA",
+        "price": null,
+        "description": "Battered cauliflower florets, served with black garlic alioli",
+        "category": "TERCERO"
+      },
+      {
+        "name": "PLATO DE CHACINERIA",
+        "price": null,
+        "description": "Iberian cured meats board served with guindilla peppers & Galician bread",
+        "category": "PRIMEIRO"
+      },
+      {
+        "name": "GAMBAS PIL PIL",
+        "price": null,
+        "description": "Pan fried prawns cooked with garlic & chilli",
+        "category": "TERCERO"
+      },
+      {
+        "name": "CARILLADA DE TERNERA",
+        "price": null,
+        "description": "Slow cooked beef cheeks with mashed potato",
+        "category": "TERCERO"
+      },
+      {
+        "name": "TARTA SANTIAGO",
+        "price": null,
+        "description": "Originating from Galicia in North West Spain, an almond & citrus torte",
+        "category": "DESSERT"
+      }
+    ]
+  },
+  {
+    "name": "Olives & Figs",
+    "address": null,
+    "location": null,
+    "source_metadata": {
+      "source_url": "https://www.mcgettiganstownhouse.com/wp-content/uploads/Brunchmenu.pdf",
+      "extraction_timestamp_utc": "2025-07-23T16:20:42.272206+00:00",
+      "extraction_status": "SUCCESS",
+      "menu_format": "PDF_DOCUMENT",
+      "llm_confidence_score": 10,
+      "detected_currency": "EUR",
+      "detected_language": "en",
+      "opening_hours": {
+        "monday": null,
+        "tuesday": null
+      },
+      "social_media_links": {
+        "instagram": null,
+        "facebook": null
+      },
+      "initial_source_url": "https://www.mcgettiganstownhouse.com/"
+    },
+    "menu": [
+      {
+        "name": "Olives & Figs Speciality Breakfast",
+        "price": 16.95,
+        "description": "Free Range Fried Eggs, Pork & Leek Sausage, Black & White Clonakilty Pudding, Bacon Rasher, Flat Cap Mushroom, Plum Tomato, Hash brown, Baked Beans & Toast",
+        "category": "Brunch"
+      },
+      {
+        "name": "Mcgettigan's Vegetarian Breakfast",
+        "price": 14.95,
+        "description": "Free Range Fried Eggs, Crushed Avocado, Wilted Spinach, Flat Cap Mushroom, Plum Tomato, Hash brown, Baked Beans & Toast",
+        "category": "Brunch"
+      },
+      {
+        "name": "Eggs Benedict",
+        "price": 13.95,
+        "description": "Toasted Muffin, Free Range Poached Eggs, Crispy Bacon, Hollandaise & Chives",
+        "category": "Brunch"
+      },
+      {
+        "name": "Eggs Florentine",
+        "price": 12.95,
+        "description": "Toasted Muffin, Free Range Poached Eggs, Wilted Spinach, Hollandaise & Chives",
+        "category": "Brunch"
+      },
+      {
+        "name": "Steak and Eggs",
+        "price": 17.95,
+        "description": "Sourdough Bread, Grilled Minute Steak, Free Range Fried Eggs, ChimiChurri, Chips",
+        "category": "Brunch"
+      },
+      {
+        "name": "Sausage Muffin",
+        "price": 16.95,
+        "description": "Toasted Muffin, Hashbrown, Sausage Patty, Dubliner Cheese, Free Range Fried Egg, Ballymaloe Relish, Chips",
+        "category": "Brunch"
+      },
+      {
+        "name": "Salmon Bagel",
+        "price": 17.95,
+        "description": "Toasted Bagel, Smoked Salmon, Dill & Caper Cream Cheese, Red Onion, Herb Salad, Chips",
+        "category": "Brunch"
+      },
+      {
+        "name": "Belgium Waffles",
+        "price": 12.95,
+        "description": "Crispy Bacon, Blueberries & Maple Syrup",
+        "category": "Brunch"
+      },
+      {
+        "name": "Free Range Scrambled Egg",
+        "price": 11.95,
+        "description": "Free Range Scrambled Eggs, Sourdough Bread",
+        "category": "Brunch"
+      },
+      {
+        "name": "Sausage",
+        "price": 3.95,
+        "description": null,
+        "category": "Extras"
+      },
+      {
+        "name": "Bacon",
+        "price": 3.95,
+        "description": null,
+        "category": "Extras"
+      },
+      {
+        "name": "Hash Brown",
+        "price": 3.95,
+        "description": null,
+        "category": "Extras"
+      },
+      {
+        "name": "Mushroom",
+        "price": 2.95,
+        "description": null,
+        "category": "Extras"
+      },
+      {
+        "name": "Sourdough",
+        "price": 2.95,
+        "description": null,
+        "category": "Extras"
+      },
+      {
+        "name": "Wilted Spinach",
+        "price": 2.95,
+        "description": null,
+        "category": "Extras"
+      },
+      {
+        "name": "Chips",
+        "price": 3.95,
+        "description": null,
+        "category": "Extras"
+      },
+      {
+        "name": "Croissant",
+        "price": 2.95,
+        "description": null,
+        "category": "Pastries"
+      },
+      {
+        "name": "Pain Au Chocolat",
+        "price": 2.95,
+        "description": null,
+        "category": "Pastries"
+      },
+      {
+        "name": "Danish Pastry",
+        "price": 2.95,
+        "description": null,
+        "category": "Pastries"
+      },
+      {
+        "name": "Continental",
+        "price": 7.95,
+        "description": "Pastry, Cold Pressed Juice, Hot Beverage",
+        "category": "Continental"
+      },
+      {
+        "name": "Americano",
+        "price": 2.5,
+        "description": null,
+        "category": "Coffee"
+      },
+      {
+        "name": "Espresso",
+        "price": 2.0,
+        "description": null,
+        "category": "Coffee"
+      },
+      {
+        "name": "Cappuccino",
+        "price": 3.5,
+        "description": null,
+        "category": "Coffee"
+      },
+      {
+        "name": "Latte",
+        "price": 3.5,
+        "description": null,
+        "category": "Coffee"
+      },
+      {
+        "name": "Peppermint",
+        "price": 2.5,
+        "description": null,
+        "category": "Herbal Tea"
+      },
+      {
+        "name": "Asia Green",
+        "price": 2.5,
+        "description": null,
+        "category": "Herbal Tea"
+      },
+      {
+        "name": "Earl Grey",
+        "price": 2.5,
+        "description": null,
+        "category": "Herbal Tea"
+      },
+      {
+        "name": "Camomile",
+        "price": 2.5,
+        "description": null,
+        "category": "Herbal Tea"
+      },
+      {
+        "name": "Lemon & Ginger",
+        "price": 2.5,
+        "description": null,
+        "category": "Herbal Tea"
+      },
+      {
+        "name": "Daily Green Combo",
+        "price": 2.5,
+        "description": null,
+        "category": "Herbal Tea"
+      },
+      {
+        "name": "Strawberry & Banana",
+        "price": 2.75,
+        "description": null,
+        "category": "Cold Pressed Juice"
+      },
+      {
+        "name": "Orange, Mango & Passionfruit",
+        "price": 2.75,
+        "description": null,
+        "category": "Cold Pressed Juice"
+      }
+    ]
+  },
+  {
+    "name": "Arthur's Bar",
+    "address": null,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -6.2603,
+        53.3498
+      ]
+    },
+    "source_metadata": {
+      "source_url": "https://media.diageocms.com/media/pi2bu1ky/arthurs-2025-updated.pdf",
+      "extraction_timestamp_utc": "2025-07-23T16:22:27.050823+00:00",
+      "extraction_status": "SUCCESS",
+      "menu_format": "PDF_DOCUMENT",
+      "llm_confidence_score": 9,
+      "detected_currency": "GBP",
+      "detected_language": "en",
+      "opening_hours": null,
+      "social_media_links": {
+        "instagram": "http://instagram.com/restaurant",
+        "facebook": null
+      },
+      "initial_source_url": "https://www.guinness-storehouse.com/en/arthur-guinness-bar"
+    },
+    "menu": [
+      {
+        "name": "Guinness Draught Stout (ABV 4.2%)",
+        "price": 6.7,
+        "description": "RICH, VELVETY, PERFECTLY BALANCED",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Hop House 13 Lager (ABV 4.2%)",
+        "price": 7.3,
+        "description": "FRUITY, HOPPY, REFRESHING",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Rockshore Lager (ABV 4.1%)",
+        "price": 7.3,
+        "description": "CRISP, MALTY, LIGHT & REFRESHING",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Citra IPA (ABV 5%)",
+        "price": 7.3,
+        "description": "BIG & BOLD, CITRUSY, SWEET FINISH",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Carlsberg 0.0",
+        "price": 4.0,
+        "description": "CRISP, REFRESHING, ALCOHOL FREE",
+        "category": "Bottled Beer"
+      },
+      {
+        "name": "Guinness Draught Stout 0.0",
+        "price": 5.7,
+        "description": "SMOOTH, PERFECTLY BALANCED, ALCOHOL FREE",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Guinness Original Extra Stout (ABV 4.2%)",
+        "price": 6.5,
+        "description": "ROUNDED FLAVOUR, COFFEE, SWEET MALT",
+        "category": "Bottled Beer"
+      },
+      {
+        "name": "West Indies Porter (ABV 6%)",
+        "price": 7.3,
+        "description": "SWEET FINISH, CHOCOLATE & TOFFEE FLAVOURS",
+        "category": "Bottled Beer"
+      },
+      {
+        "name": "Guinness Foreign Extra Stout (ABV 7.5%)",
+        "price": 6.5,
+        "description": "FULL BODIED, FRUITY CHARACTER",
+        "category": "Bottled Beer"
+      },
+      {
+        "name": "Arthur's Choice",
+        "price": 11,
+        "description": "GUINNESS DRAUGHT, HOP HOUSE 13, CITRA IPA (200ML EACH)",
+        "category": "Beer Paddles"
+      },
+      {
+        "name": "Global Guinness",
+        "price": 11,
+        "description": "GUINNESS ORIGINAL, WEST INDIES PORTER, FOREIGN EXTRA STOUT (200ML EACH)",
+        "category": "Beer Paddles"
+      },
+      {
+        "name": "The Liberties Coffee",
+        "price": 10,
+        "description": "OUR SIGNATURE COLD IRISH COFFEE IS INSPIRED BY THE BREWING & DISTILLING WORK IN OUR LIBERTIES HOME.",
+        "category": "Cocktails"
+      },
+      {
+        "name": "Guinness Old Fashioned",
+        "price": 12,
+        "description": "ROE & CO SOLERA CASK, GUINNESS SYRUP, BITTERS, ORANGE OIL",
+        "category": "Cocktails"
+      },
+      {
+        "name": "Black Velvet",
+        "price": 12,
+        "description": "GUINNESS EXTRA STOUT, PROSECCO",
+        "category": "Cocktails"
+      },
+      {
+        "name": "Ruby Black Velvet",
+        "price": 12,
+        "description": "GUINNESS EXTRA STOUT, PROSECCO, CRÈME DE CASSIS",
+        "category": "Cocktails"
+      },
+      {
+        "name": "Dark & Stoutly",
+        "price": 12,
+        "description": "ZACAPA RUM, LIME JUICE, GINGER-HABANERO SYRUP, GUINNESS DRAUGHT",
+        "category": "Cocktails"
+      },
+      {
+        "name": "Passion Fruit Martini",
+        "price": 12,
+        "description": "SMIRNOFF VODKA, PASSION FRUIT PURÉE",
+        "category": "Cocktails"
+      },
+      {
+        "name": "Strawberry Daiquiri",
+        "price": 12,
+        "description": "CAPTAIN MORGAN'S RUM, STRAWBERRY & LIME PUREE",
+        "category": "Cocktails"
+      },
+      {
+        "name": "Smirnoff Vodka",
+        "price": 5.9,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Gordon's Gin",
+        "price": 5.9,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Gordon's 0.0%",
+        "price": 4.5,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Gordon's Pink Gin",
+        "price": 5.9,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Tanqueray Gin",
+        "price": 6.4,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Tanqueray 0.0%",
+        "price": 5.0,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Baileys Irish Cream",
+        "price": 6.1,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Roe & Co Whiskey",
+        "price": 6.1,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Johnnie Walker Black Label",
+        "price": 6.5,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Kahlua",
+        "price": 5.9,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Captain Morgan Spiced Rum",
+        "price": 6.1,
+        "description": null,
+        "category": "Spirits & Liqueurs"
+      },
+      {
+        "name": "Ballygowan Irish Mineral Water (still • sparkling)",
+        "price": 3.8,
+        "description": null,
+        "category": "Water & Soft Drinks"
+      },
+      {
+        "name": "Coca-Cola, 7up, Club Orange, Club Lemon",
+        "price": 4.0,
+        "description": null,
+        "category": "Water & Soft Drinks"
+      },
+      {
+        "name": "Diet Coke, Coca-cola Zero Sugar, 7up free",
+        "price": 3.9,
+        "description": null,
+        "category": "Water & Soft Drinks"
+      },
+      {
+        "name": "Britvic Juices - Orange, Cranberry, Pineapple",
+        "price": 4.0,
+        "description": null,
+        "category": "Water & Soft Drinks"
+      },
+      {
+        "name": "Schweppes Tonics: Slimline Tonic, Soda Water, Lemonade, Ginger Ale",
+        "price": 2.9,
+        "description": null,
+        "category": "Water & Soft Drinks"
+      },
+      {
+        "name": "Cappuccino",
+        "price": 5.1,
+        "description": null,
+        "category": "Tea & Coffee"
+      },
+      {
+        "name": "Latte",
+        "price": 5.1,
+        "description": null,
+        "category": "Tea & Coffee"
+      },
+      {
+        "name": "Flat White",
+        "price": 5.1,
+        "description": null,
+        "category": "Tea & Coffee"
+      },
+      {
+        "name": "Americano",
+        "price": 4.5,
+        "description": null,
+        "category": "Tea & Coffee"
+      },
+      {
+        "name": "Double Espresso",
+        "price": 3.5,
+        "description": null,
+        "category": "Tea & Coffee"
+      },
+      {
+        "name": "Irish Breakfast Tea",
+        "price": 4.0,
+        "description": null,
+        "category": "Tea & Coffee"
+      },
+      {
+        "name": "Herbal Tea",
+        "price": 4.2,
+        "description": null,
+        "category": "Tea & Coffee"
+      },
+      {
+        "name": "Roe & Co Irish Coffee",
+        "price": 7.5,
+        "description": "ROE & CO WHISKEY, ESPRESSO, DEMERARA SUGAR, DOUBLE CREAM",
+        "category": "Liqueur Coffee"
+      },
+      {
+        "name": "Bailey's Latte",
+        "price": 7.5,
+        "description": "BAILEYS, ESPRESSO, MILK, CHOCOLATE, DOUBLE CREAM",
+        "category": "Liqueur Coffee"
+      },
+      {
+        "name": "House Roasted Nuts, Guinness Salt",
+        "price": 6,
+        "description": "1W/B, 5 peanut, 8 cashew, hazelnut, almond, brazil",
+        "category": "Food"
+      },
+      {
+        "name": "Barman's Ham & Cheese Toastie with Keogh's Guinness Crisps",
+        "price": 11.5,
+        "description": "1W/B, 3, 6, 7, 10, 12",
+        "category": "Food"
+      },
+      {
+        "name": "Beer-battered Rosscarbery Black Pudding, Old Fashioned Apple Sauce",
+        "price": 8,
+        "description": "1W/B, 6, 12",
+        "category": "Food"
+      },
+      {
+        "name": "Guinness Smoked Salmon by Kish Fish, Potato Skins, Sour Cream, Lemon, Caper & Red Onion Salsa",
+        "price": 15.5,
+        "description": "1W/B, 4, 6, 12",
+        "category": "Food"
+      },
+      {
+        "name": "Corncutters' Lunch: Artisan Irish Cheeses, Guinness Glazed Ham, Sourdough Baguette, Beetroot Pickled Egg, House Pickles & Chutney, Apple, Celery",
+        "price": 18.5,
+        "description": "1W/B, 3, 7, 9, 10, 12",
+        "category": "Food"
+      },
+      {
+        "name": "Cockles & Mussels, Quigley's Bacon Hock, Savoy Cabbage, Guinness Cream",
+        "price": 17,
+        "description": "1W/B, 7, 9, 12, 14",
+        "category": "Food"
+      },
+      {
+        "name": "Quigley's Beef Burger, Crispy Bacon, Cheese, Gherkin, Red Onion, Beef Tomato, Baby Gem, Guinness Burger Sauce",
+        "price": 15,
+        "description": "1W/B, 3, 6, 7, 10, 12",
+        "category": "Food"
+      },
+      {
+        "name": "Beef & Guinness Pie, Crisp Puff Pastry Lid, Homemade Guinness Soda Bread",
+        "price": 16.5,
+        "description": "1W/B, 3, 6, 7, 9, 12",
+        "category": "Food"
+      },
+      {
+        "name": "Vegetarian Cheeseburger, Pickled Beet & Fennel Slaw, Burger Sauce",
+        "price": 14,
+        "description": "1W/B, 3, 6, 10, 12",
+        "category": "Food"
+      },
+      {
+        "name": "Add Fries to any order",
+        "price": 6,
+        "description": "1W, 6",
+        "category": "Food"
+      }
+    ]
+  },
+  {
+    "name": "Darkey Kelly's Bar & Restaurant",
+    "address": "Fishamble Street, Dublin 2. Ireland.",
+    "location": null,
+    "source_metadata": {
+      "source_url": "https://darkeykellys.ie/drinks-menu/",
+      "extraction_timestamp_utc": "2025-07-23T16:25:49.676912+00:00",
+      "extraction_status": "SUCCESS",
+      "menu_format": "HTML_TABLE",
+      "llm_confidence_score": 9,
+      "detected_currency": "EUR",
+      "detected_language": "en",
+      "opening_hours": {
+        "monday": "11:30-23:30",
+        "tuesday": "11:30-23:30"
+      },
+      "social_media_links": {
+        "instagram": null,
+        "facebook": "https://www.facebook.com/Darkey-Kellys-84067067634/"
+      },
+      "initial_source_url": "http://darkeykellys.ie/"
+    },
+    "menu": [
+      {
+        "name": "Guinness",
+        "price": null,
+        "description": "What can we say about Guinness ~ you just have to try it! Made just a mile up the road, sit back, relax and enjoy a pint of the black stuff. Dublin, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Beamish",
+        "price": null,
+        "description": "Beamish Irish Stout has been brewed in Cork since 1972. Beamish is a flavoursome stout with hints of coffee and dark chocolate. Cork, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Eventide Rye River Irish Stout",
+        "price": null,
+        "description": "A traditional Irish stout with a silky coffee, chocolate and toffee aroma. A delicate and balanced bitterness that finishes dry like a great Irish stout should! Co. Kildare , IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Rye River Big Bangin' IPA",
+        "price": null,
+        "description": "Our take on the U.S. West Coast IPA style using only the finest malted Maris Otter Barley and heavily hopped with tropical aromatic hop varieties. Co. Kildare, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Rye River Irish Red Rogue",
+        "price": null,
+        "description": "Aromatic, malt driven Irish red ale bringing through aromatic caramel malts. Aroma of biscuit, roast caramel and dark fruits balanced by an earthy bitter tone. Co. Kildare, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Rye River Lil’ Bangin Session IPA",
+        "price": null,
+        "description": "A smooth and sessionable IPA with intense aromas of juicy ripe fruit, tangerine and pine which follow through to a silky body. Co. Kildare, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Rye River Bidin’ Time Irish Lager",
+        "price": null,
+        "description": "An Irish lager German inspired. Lagered longer than most. Brewed with German hops, German malt and German lager yeast. Co. Kildare, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Rye River Upstream Pale Ale",
+        "price": null,
+        "description": "A balance of bitter citrus hop character with a soft malt body pushing through the aroma of grapefruit, orange peel and pine. A light body and a touch of honey. Co. Kildare, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Rockshore",
+        "price": null,
+        "description": "A light beer from the makers of Guinness inspired by the rugged landscape of the west of Ireland. Dublin, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Rockshore Cider",
+        "price": null,
+        "description": "A light, crisp, refreshing taste with a less sweet taste than other cider inspired by the bracing refreshment of the Atlantic coast. Dublin, IRELAND. (Sulphites)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Smithwicks",
+        "price": null,
+        "description": "Smithwicks is an Irish red ale style beer from Kilkenny, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Carlsberg",
+        "price": null,
+        "description": "A German pilsner style beer brewed by Carlsberg. DENMARK. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Coors Light",
+        "price": null,
+        "description": "Coors Light is a light beer brewed in Golden, Colorado, USA. (Barley & Wheat)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Heineken",
+        "price": null,
+        "description": "A Dutch pale lager beer first brewed in 1873, HOLLAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Bulmers",
+        "price": null,
+        "description": "Ireland’s favourite cider. Patiently vat matured to deliver a pure and natural character. Tipperary, IRELAND. (Sulphites)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "O’Hara’s 51st State IPA",
+        "price": null,
+        "description": "A New England style IPA bursting with bold tropical flavours of grapefruit, passion fruit, apricot and peach. Co. Carlow, IRELAND. (Barley & Wheat)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "O’Hara’s Falling Apple Cider",
+        "price": null,
+        "description": "The Carlow Brewing Company’s first craft cider. We hope you enjoy! Co. Carlow, IRELAND. (Sulphites)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "O’Hara’s Irish Nitro Red Ale",
+        "price": null,
+        "description": "Creamy with hints of sweet caramel and mild nutty biscuit. Co. Carlow, IRELAND. (Barley & Wheat)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Orchard Thieves Cider",
+        "price": null,
+        "description": "Crafted from the perfect mix of crisp and tart apples for an instant fresh apple taste, Orchard Thieves really cuts through and instantly refreshes. U.K. (Sulphites)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Hop House 13 Lager",
+        "price": null,
+        "description": "A full flavoured, double hopped lager from Guinness made with Irish barley and aromatic hops for a refreshingly crisp taste. IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Birra Moretti",
+        "price": null,
+        "description": "Genuine Italian beer produced using a traditional process. ITALY. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Guinness 00",
+        "price": null,
+        "description": "Guinness 00 provides the iconic taste of Guinness draught, rich and creamy with a velvety finish but with no alcohol. Dublin, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "O’ Brother Dreamcatcher Session IPA",
+        "price": null,
+        "description": "Bold with lots of punch, lovely grapefruit and orange balances the juicy, tropical hop flavours finishing clean and fresh. Co Wicklow, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "O’ Brother The Chancer Pale Ale",
+        "price": null,
+        "description": "A bold and fresh American pale ale. Floral on the nose with fresh herbal notes and grapefruit citrus. Co Wicklow, IRELAND. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Corona",
+        "price": null,
+        "description": "Golden lager, slightly fruity with a crisp but refreshing bitterness. MEXICO. (Barley)",
+        "category": "Draught Beer"
+      },
+      {
+        "name": "Teeling Whiskey Sour",
+        "price": 13.95,
+        "description": "Teeling Single Malt, lemon juice, sweet and sour syrup, Angostura bitters",
+        "category": "Irish Whiskey Cocktails"
+      },
+      {
+        "name": "Liberties Lemonade",
+        "price": 13.95,
+        "description": "Teeling Small Batch, triple sec, lemonade & lime",
+        "category": "Irish Whiskey Cocktails"
+      },
+      {
+        "name": "Irish Old Fashioned",
+        "price": 13.95,
+        "description": "Powers Irish Whiskey, Benedictine, Angostura bitters, sugar syrup and soda water",
+        "category": "Irish Whiskey Cocktails"
+      },
+      {
+        "name": "The Ginger Man",
+        "price": 13.95,
+        "description": "Fercullen 8 Year Old Whiskey, gingerbread liqueur, butterscotch schnapps & a dash of cider",
+        "category": "Irish Whiskey Cocktails"
+      },
+      {
+        "name": "Dingle Buck",
+        "price": 13.95,
+        "description": "Dingle Gin, ginger ale, lemon juice and muddled lemons",
+        "category": "Gin Cocktails"
+      },
+      {
+        "name": "Red Light District",
+        "price": 13.95,
+        "description": "Boatyard Gin, fresh lime, cranberry juice and ginger ale",
+        "category": "Gin Cocktails"
+      },
+      {
+        "name": "The Leitrim Lash",
+        "price": 13.95,
+        "description": "Drumshanbo Gunpowder Gin, apple schnapps, orange bitters, rhubarb bitters, apple and ginger juice",
+        "category": "Gin Cocktails"
+      },
+      {
+        "name": "Fishamble Bramble",
+        "price": 13.95,
+        "description": "Gordon’s Pink Gin, fresh lemon, sugar syrup, creme de cassis and berry medley",
+        "category": "Gin Cocktails"
+      },
+      {
+        "name": "June Bug ",
+        "price": 13.95,
+        "description": "Vodka, Malibu, Midori, pineapple juice and lime",
+        "category": "House Special Cocktails"
+      },
+      {
+        "name": "P.M.S.",
+        "price": 13.95,
+        "description": "Peach Schnapps, Midori, strawberry liqueur with orange juice and lemonade",
+        "category": "House Special Cocktails"
+      },
+      {
+        "name": "Red Lolly",
+        "price": 13.95,
+        "description": "Malibu, strawberry liqueur, cranberry juice with fresh strawberry",
+        "category": "House Special Cocktails"
+      },
+      {
+        "name": "The Brothel Keeper",
+        "price": 13.95,
+        "description": "Dark rum, spiced rum, lemon juice, apple juice and sugar syrup",
+        "category": "House Special Cocktails"
+      },
+      {
+        "name": "Domaine Castelnau Syrah",
+        "price": null,
+        "description": "100% Syrah grown in a Mediterranean Climate. Let yourself be carried away by the gourmet flavours of black fruits with touches of soft chocolate and velvety tannins on the palate",
+        "category": "Red Wine"
+      },
+      {
+        "name": "Ca' Del Doge Cabernet Veneto IGT",
+        "price": null,
+        "description": "A soft easy drinking Cabernet Sauvignon with gentle tannins and ripe black fruit flavours. Great for barbeques and for parties",
+        "category": "Red Wine"
+      },
+      {
+        "name": "Domaine Castelnau Merlot / Cabernet",
+        "price": null,
+        "description": "This is a wonderful easy to drink wine with lots of red fruit flavours, good acidity and tannin. Light medium in body and well balanced. Enjoy with light snacks",
+        "category": "Red Wine"
+      },
+      {
+        "name": "Rosé Wine Cal y Canto Rosado",
+        "price": null,
+        "description": "Wonderfully light and fruity Spanish wine. Perfect for sunny weather drinking or for light seafood and salad dishes",
+        "category": "Rosé Wine"
+      },
+      {
+        "name": "Vignoble Gibault Sauvignon VDL",
+        "price": null,
+        "description": "A classic style Loire Valley Sauvignon Blanc. A dry white wine full of freshness and elegance, lively, and very fragrant with aromas of pear, grapefruit and pineapple",
+        "category": "White Wine"
+      },
+      {
+        "name": "Serenissima Pinot Grigio",
+        "price": null,
+        "description": "A real tasty fruity wine with a slight after-taste of bitter almond. That is an ideal pairing with light dishes such as salads and seafood",
+        "category": "White Wine"
+      },
+      {
+        "name": "Domaine Castelnau Chardonnay Les Ronces",
+        "price": null,
+        "description": "An elegant chardonnay. Fruity notes enhanced by subtle spiced aromas giving a certain balance to the wine",
+        "category": "White Wine"
+      },
+      {
+        "name": "La farra Valdobbiadene Prosecco Frizzante",
+        "price": null,
+        "description": "From the renowned vineyard “Rive of Nardi” located in the upper hills of Farra di Soligo in Italy this Prosecco benefited from the best conditions and offers up surprising levels of fruitiness of and depth of flavour",
+        "category": "Sparkling Wine"
+      }
+    ]
+  },
+  {
+    "name": "Ashling Hotel",
+    "address": null,
+    "location": null,
+    "source_metadata": {
+      "source_url": "https://www.ashlinghotel.ie/iveagh-bistro-bar-menu-final",
+      "extraction_timestamp_utc": "2025-07-23T16:30:09.766427+00:00",
+      "extraction_status": "SUCCESS",
+      "menu_format": "PDF_DOCUMENT",
+      "llm_confidence_score": 9,
+      "detected_currency": "EUR",
+      "detected_language": "en",
+      "opening_hours": {
+        "monday": null,
+        "tuesday": null
+      },
+      "social_media_links": {
+        "instagram": "http://instagram.com/restaurant",
+        "facebook": null
+      },
+      "initial_source_url": "https://www.ashlinghotel.ie/bar"
+    },
+    "menu": [
+      {
+        "name": "Scrambled Eggs on Sourdough Toast",
+        "price": 11.5,
+        "description": "Irish free range eggs with crème fraiche, toasted sourdough, vine tomatoes, rocket leaves (1a, 3, 7, 12)",
+        "category": "LUNCHTIME BITES"
+      },
+      {
+        "name": "With Bacon",
+        "price": 3.0,
+        "description": null,
+        "category": "LUNCHTIME BITES"
+      },
+      {
+        "name": "With Smoked Salmon",
+        "price": 4.5,
+        "description": null,
+        "category": "LUNCHTIME BITES"
+      },
+      {
+        "name": "Feta and Butternut Squash Tomato Wrap",
+        "price": 17.5,
+        "description": "Selection of baby leaves, feta cheese, caramelized sweet potato & squash Served with a bowl of the soup of the day or chips (1A,7,9,10,12,13)",
+        "category": "LUNCHTIME BITES"
+      },
+      {
+        "name": "Classic Caesar Wrap",
+        "price": 17.5,
+        "description": "Classic Caesar salad, cos lettuce, bacon, croutons, creamy dressing. Served with a bowl of the soup of the day or chips (1A,3,4,7,9,10,12,13)",
+        "category": "LUNCHTIME BITES"
+      },
+      {
+        "name": "Selection of Finger Sandwiches",
+        "price": 17.5,
+        "description": "Served with a bowl of soup of the day or chips\n• Egg mayo & herbs, tomato bread\n• Tuna and sweetcorn, plain bread\n• Roasted chicken with onion and herbs stuffing, plain bread (1A,4,7,9,10,12,13)",
+        "category": "LUNCHTIME BITES"
+      },
+      {
+        "name": "All Pastries",
+        "price": 3.75,
+        "description": null,
+        "category": "PASTRIES"
+      },
+      {
+        "name": "Plain Croissant",
+        "price": null,
+        "description": "1A, 5, 6, 7, 8, 12,13",
+        "category": "PASTRIES"
+      },
+      {
+        "name": "Danish",
+        "price": null,
+        "description": "1aA 5, 6, 7, 8,12,13",
+        "category": "PASTRIES"
+      },
+      {
+        "name": "Muffins",
+        "price": null,
+        "description": "1A, 5, 6, 7, 8, 12,13",
+        "category": "PASTRIES"
+      },
+      {
+        "name": "Fruit Scone",
+        "price": null,
+        "description": "1A, 5, 6, 7, 8, 12,13",
+        "category": "PASTRIES"
+      },
+      {
+        "name": "Plain Scone",
+        "price": null,
+        "description": "1A, 5, 6, 7, 8, 12,13",
+        "category": "PASTRIES"
+      },
+      {
+        "name": "Americano",
+        "price": 3.9,
+        "description": null,
+        "category": "HOT BEVERAGES"
+      },
+      {
+        "name": "Cappuccino",
+        "price": 4.5,
+        "description": null,
+        "category": "HOT BEVERAGES"
+      },
+      {
+        "name": "Flat White",
+        "price": 4.5,
+        "description": null,
+        "category": "HOT BEVERAGES"
+      },
+      {
+        "name": "Espresso",
+        "price": 3.0,
+        "description": null,
+        "category": "HOT BEVERAGES"
+      },
+      {
+        "name": "Double Espresso",
+        "price": 4.0,
+        "description": null,
+        "category": "HOT BEVERAGES"
+      },
+      {
+        "name": "Latte",
+        "price": 4.75,
+        "description": null,
+        "category": "HOT BEVERAGES"
+      },
+      {
+        "name": "Mocha",
+        "price": 4.8,
+        "description": null,
+        "category": "HOT BEVERAGES"
+      },
+      {
+        "name": "Hot Chocolate",
+        "price": 4.5,
+        "description": null,
+        "category": "HOT BEVERAGES"
+      },
+      {
+        "name": "Tea for 1",
+        "price": 3.75,
+        "description": null,
+        "category": "HOT BEVERAGES"
+      },
+      {
+        "name": "Tea for 2",
+        "price": 5.75,
+        "description": null,
+        "category": "HOT BEVERAGES"
+      },
+      {
+        "name": "Soup of The Day",
+        "price": 9.5,
+        "description": "Porter bread (la,3,7,9,12,13)",
+        "category": "LIGHT BITES"
+      },
+      {
+        "name": "Chicken & Guyere Cheese Croquette",
+        "price": 16.5,
+        "description": "Confit garlic aioli, grilled spring onion, chimichurri, pak choi salad, parmesan, balsamic glaze (1A,3,6,7,9,10,12,13)",
+        "category": "LIGHT BITES"
+      },
+      {
+        "name": "Crispy Panko Tiger Prawns",
+        "price": 16.5,
+        "description": "Yuzu, pickled fennel, rocket, citrus segments, flaked almond, smoked paprika & almond aioli (1A,2,3,6,7,8A,19,12,13,14)",
+        "category": "LIGHT BITES"
+      },
+      {
+        "name": "Artisan Board",
+        "price": 23.0,
+        "description": "Parma ham, whiskey salami, chorizo, pastrami, Irish farm house cheese selection, pickles, tomato & chilli jam, grissini bread sticks, crackers (1A,6,7,9,10,11,12,13)",
+        "category": "LIGHT BITES"
+      },
+      {
+        "name": "Chulchoill Goat Cheese & Peach Salad",
+        "price": 18.95,
+        "description": "Chicory, walnut crumble, honey, lemon & orange dressing, walnut & raisin croutons (1A,6,7,8C13)",
+        "category": "LIGHT BITES"
+      },
+      {
+        "name": "Niçoise Salad",
+        "price": 20.5,
+        "description": "Pan seared tuna served pink, boiled egg, kalamata olives, heirloom tomatoes, confit baby potato, green beans, cucumber, citrus dressing (3,4,12)",
+        "category": "LIGHT BITES"
+      },
+      {
+        "name": "Couscous Salad",
+        "price": 18.5,
+        "description": "Roasted flaked salmon, tomato & peppers salsa, crispy kale, sweet chilli dressing (1A,4,12)",
+        "category": "LIGHT BITES"
+      },
+      {
+        "name": "Caramelized Heirloom Carrots",
+        "price": 18.5,
+        "description": "Carrott puree, pouched rhubarb, pear, strawberry, roasted flaked almonds (8A,12)",
+        "category": "LIGHT BITES"
+      },
+      {
+        "name": "All Sandwiches",
+        "price": 17.5,
+        "description": "served with salad and crisps",
+        "category": "SANDWICHES"
+      },
+      {
+        "name": "Chicken Schnitzel",
+        "price": null,
+        "description": "Hoisin & sweet chilli glaze, rainbow cabbage and apple coleslaw, onion & sesame bap (1A,3,7,9,10,11,12,13)",
+        "category": "SANDWICHES"
+      },
+      {
+        "name": "Cured Smoked Salmon Bagel",
+        "price": null,
+        "description": "Beetroot & balsamic cured smoked salmon, poppy seed bagel, pickled cucumber, cream cheese, mustard, dill (1A,4,6,7,9,10,11,12,13)",
+        "category": "SANDWICHES"
+      },
+      {
+        "name": "Vegetable Focaccia",
+        "price": null,
+        "description": "Ricotta, chargrilled aubergine, heirloom tomatoes, basil, sundried tomato & oregano pesto, smoked scamorza cheese. (1A,6,7,11,12,13)",
+        "category": "SANDWICHES"
+      },
+      {
+        "name": "Triple Decker",
+        "price": null,
+        "description": "Baked ham, smoked bacon, Dubliner cheese, egg mayo, guacamole, cos lettuce (1A,3,6,7,10,12,13)",
+        "category": "SANDWICHES"
+      },
+      {
+        "name": "Bangers & Mash",
+        "price": 23.0,
+        "description": "Toulouse sausages, pomme purée, caramelized onion veal jus (1aA7,9,10,12)",
+        "category": "MAIN COURSE"
+      },
+      {
+        "name": "Hereford Beef Burger",
+        "price": 22.5,
+        "description": "Toasted brioche bun, smoked steaky bacon, Dubliner cheese, tomato & chilli jam, onion rings, skinny fries (1A,3,6,7,9,10,11,12,13)",
+        "category": "MAIN COURSE"
+      },
+      {
+        "name": "Battered Fish & Chips",
+        "price": 23.5,
+        "description": "Hop house 13 battered haddock fillet, chunky chips, house tartar sauce, mushy peas, lemon wedge (1A,1c,3,4,7,9,12,13)",
+        "category": "MAIN COURSE"
+      },
+      {
+        "name": "Seafood Chowder",
+        "price": 24.0,
+        "description": "Selection of market fish, mussels, clam meat, root vegetables, toasted sourdough (1A,2,4,7,9,12,13,14)",
+        "category": "MAIN COURSE"
+      },
+      {
+        "name": "Crispy Atlantic Cod Burger",
+        "price": 23.0,
+        "description": "Toasted brioche bun, Asian cabbage & cos salad, citrus dressing, sweet chilli, tartar sauce, skinny fries, mixed leaf salad (1A,3,4,7,10,11,12,13,)",
+        "category": "MAIN COURSE"
+      },
+      {
+        "name": "Thai Red Curry",
+        "price": 19.0,
+        "description": "Chickpeas, selection of vegetable, basmati rice & poppadom (1A,6,9,10,12,13)",
+        "category": "MAIN COURSE"
+      },
+      {
+        "name": "Add Roast Breast of Chicken",
+        "price": 4.5,
+        "description": null,
+        "category": "MAIN COURSE"
+      },
+      {
+        "name": "Orzo Pasta",
+        "price": 23.0,
+        "description": "Butternut squash sauce, Cashel blue cheese, crispy sage, walnut crumb (1A,3,6,7,8,12,13)",
+        "category": "MAIN COURSE"
+      },
+      {
+        "name": "Skinny Fries",
+        "price": 6.0,
+        "description": "(1A,12)",
+        "category": "SIDES"
+      },
+      {
+        "name": "Chunky Chips",
+        "price": 6.0,
+        "description": "(1A,12)",
+        "category": "SIDES"
+      },
+      {
+        "name": "Sweet Potato Fries",
+        "price": 6.0,
+        "description": "(1A,12)",
+        "category": "SIDES"
+      },
+      {
+        "name": "Pomme Purée",
+        "price": 6.0,
+        "description": "(7,12)",
+        "category": "SIDES"
+      },
+      {
+        "name": "Seasonal Vegetables",
+        "price": 6.0,
+        "description": "(7)",
+        "category": "SIDES"
+      },
+      {
+        "name": "Classic Vegetable Pizza",
+        "price": 18.0,
+        "description": "Tomato sauce, mozzarella cheese, selection of roasted vegetable (1A,6,7,9,10,11,12,13)",
+        "category": "PIZZAS"
+      },
+      {
+        "name": "Italian Pizza",
+        "price": 19.5,
+        "description": "Tomato sauce, mozzarella cheese, chorizo, pepperoni, sweet peppers (1A,6,7,9,10,11,12,13)",
+        "category": "PIZZAS"
+      },
+      {
+        "name": "Big Meat Pizza",
+        "price": 20.0,
+        "description": "Tomato sauce, mozzarella cheese, roast chicken, smoked bacon, ham, onion (1A,6,7,9,10,11,12,13)",
+        "category": "PIZZAS"
+      },
+      {
+        "name": "Classic Mozzarella Pizza",
+        "price": 18.0,
+        "description": "Tomato sauce mozzarella cheese, parmesan cheese (1A,6,7,9,10,11,12,13)",
+        "category": "PIZZAS"
+      },
+      {
+        "name": "Fresh Fruit Salad",
+        "price": 11.5,
+        "description": "Served with a scoup of vanilla ice-cream(7,12)",
+        "category": "SOMETHING SWEET"
+      },
+      {
+        "name": "Champagne Strawberry Trifle",
+        "price": 11.5,
+        "description": "Set strawberry jelly, champagne sponge, Madagascar vanilla, Crème Anglaise, mascarpone mousse (1a,3,7,12,13)",
+        "category": "SOMETHING SWEET"
+      },
+      {
+        "name": "Dark Chocolate Lava Cake",
+        "price": 11.5,
+        "description": "Confit cherries, cherry sorbet, chocolate nib tuile (1a,3,6,7,12,13)",
+        "category": "SOMETHING SWEET"
+      },
+      {
+        "name": "Roasted Coffee Burlee,",
+        "price": 11.5,
+        "description": "Shortbread, crumble, spiced honey tuille, cinnamon ice-cream, salted caramel pearls. (1a,3,6,7,12,13)",
+        "category": "SOMETHING SWEET"
+      },
+      {
+        "name": "Farmhouse Cheese Selection",
+        "price": 16.5,
+        "description": "Quince jelly, bread crackers, breadsticks, grapes, chutney (7,12)",
+        "category": "SOMETHING SWEET"
+      }
+    ]
+  },
+  {
+    "name": "Grainger's Hanlon's Corner",
+    "address": null,
+    "location": null,
+    "source_metadata": {
+      "source_url": "https://graingers-hanlons-corner.menuu.com/",
+      "extraction_timestamp_utc": "2025-07-23T16:33:13.903843+00:00",
+      "extraction_status": "NO_MENU_FOUND",
+      "menu_format": "NO_MENU_FOUND",
+      "llm_confidence_score": "1",
+      "detected_currency": null,
+      "detected_language": "en",
+      "opening_hours": {
+        "monday": null,
+        "tuesday": null
+      },
+      "social_media_links": {
+        "instagram": null,
+        "facebook": null
+      },
+      "initial_source_url": "http://www.graingershanlonscorner.ie/"
+    },
+    "menu": []
+  },
+  {
+    "name": "The Black Sheep",
+    "address": null,
+    "location": null,
+    "source_metadata": {
+      "source_url": "http://galwaybaybrewery.com/wp-content/uploads/2025/06/The-Black-Sheep-All-Day-Menu-06.2025-1.pdf",
+      "extraction_timestamp_utc": "2025-07-23T16:35:11.281518+00:00",
+      "extraction_status": "SUCCESS",
+      "menu_format": "PDF_DOCUMENT",
+      "llm_confidence_score": 10,
+      "detected_currency": "EUR",
+      "detected_language": "en",
+      "opening_hours": {
+        "monday": "12:00-22:00",
+        "tuesday": "12:00-22:00"
+      },
+      "social_media_links": {
+        "instagram": "http://instagram.com/restaurant",
+        "facebook": null
+      },
+      "initial_source_url": "http://galwaybaybrewery.com/blacksheep/"
+    },
+    "menu": [
+      {
+        "name": "SOUP OF THE DAY",
+        "price": 8.0,
+        "description": "Freshly prepared soup of the day, sourdough bread, Irish butter.",
+        "category": "Starters"
+      },
+      {
+        "name": "SEAFOOD CHOWDER",
+        "price": 14.0,
+        "description": "Fresh and smoked fish, creamy seafood velouté, toasted sourdough, Irish butter.",
+        "category": "Starters"
+      },
+      {
+        "name": "MAC & CHEESE",
+        "price": 10.0,
+        "description": "Elbow macaroni, house cheese sauce, parmesan.",
+        "category": "Starters"
+      },
+      {
+        "name": "BLACK SHEEP BURGER",
+        "price": 18.5,
+        "description": "100% Irish beef patty, crispy bacon, monterey jack cheese, little gem lettuce, pickles, tomato, mayo, brioche.",
+        "category": "Burgers"
+      },
+      {
+        "name": "SPICY SPIRE BURGER",
+        "price": 19.5,
+        "description": "Buttermilk fried chicken breast, buffalo hot sauce, blue cheese mayo, little gem lettuce, tomato, slaw, brioche.",
+        "category": "Burgers"
+      },
+      {
+        "name": "BACON BLUES BURGER",
+        "price": 19.75,
+        "description": "100% Irish beef patty, Cashel blue cheese, crispy bacon, little gem lettuce, tomato, mayo, brioche.",
+        "category": "Burgers"
+      },
+      {
+        "name": "PARNELL PULLED PORK BURGER",
+        "price": 18.5,
+        "description": "BBQ pulled pork, coleslaw, little gem lettuce, onion rings, pickles, garlic mayo, brioche.",
+        "category": "Burgers"
+      },
+      {
+        "name": "MARKET VEGGIE BURGER",
+        "price": 18.0,
+        "description": "Breaded Veggie patty, little gem lettuce, tomato, relish, brioche.",
+        "category": "Burgers"
+      },
+      {
+        "name": "WOOLY WONDER BURGER",
+        "price": 19.0,
+        "description": "100% Irish Lamb patty, goat's cheese, beef tomato, rocket, pickles, mayo, brioche.",
+        "category": "Burgers"
+      },
+      {
+        "name": "ELVIS BURGER",
+        "price": 24.0,
+        "description": "Double 100% Irish beef patties, monterey jack cheese, crispy bacon, fried egg, little gem lettuce, pickles, tomato, mayo, onion jam, brioche.",
+        "category": "Burgers"
+      },
+      {
+        "name": "FISH AND CHIPS",
+        "price": 19.5,
+        "description": "Fresh haddock, Full sail IPA batter, tartare sauce, mixed leaf salad, lemon, twice cooked fries.",
+        "category": "Mains"
+      },
+      {
+        "name": "BEEF AND STOUT STEW",
+        "price": 19.0,
+        "description": "Slow cooked 100% Irish Beef, rich Ostara stout gravy, root vegetables, creamy mash potato.",
+        "category": "Mains"
+      },
+      {
+        "name": "BANGERS AND MASH",
+        "price": 17.5,
+        "description": "Irish pork sausages, creamy mash potato, onion gravy, crispy onions.",
+        "category": "Mains"
+      },
+      {
+        "name": "STEAK SANDWICH",
+        "price": 18.75,
+        "description": "100% Irish striploin steak, monterey jack cheese, crispy onions, rocket, honey mustard mayo, toasted sourdough, chips.",
+        "category": "Mains"
+      },
+      {
+        "name": "BOLA CHILLI",
+        "price": 17.0,
+        "description": "Mildly spiced 100% Irish beef mince, kidney beans, guacamole, salsa, sour cream, cheese sauce, tortilla chips, rice.",
+        "category": "Mains"
+      },
+      {
+        "name": "VEGETARIAN CHILLI",
+        "price": 17.0,
+        "description": "Black Sheep's Vegan bean chilli, guacamole, salsa, sour cream, cheese sauce, tortilla chips, rice.",
+        "category": "Mains"
+      },
+      {
+        "name": "CHICKEN STACK",
+        "price": 17.5,
+        "description": "Crispy fried buttermilk chicken, creamy mash potato, crispy onions. Served with a rich Ostara stout gravy.",
+        "category": "Mains"
+      },
+      {
+        "name": "CHICKEN WINGS",
+        "price": 13.0,
+        "description": "Marinated crispy chicken wings, celery, blue cheese mayo, your choice of Hot or BBQ sauce.",
+        "category": "Bites"
+      },
+      {
+        "name": "CHICKEN WINGS",
+        "price": 24.0,
+        "description": "Marinated crispy chicken wings, celery, blue cheese mayo, your choice of Hot or BBQ sauce.",
+        "category": "Bites"
+      },
+      {
+        "name": "CAULIFLOWER BITES",
+        "price": 15.0,
+        "description": "Breaded cauliflower florets, your choice of Hot or BBQ sauce.",
+        "category": "Bites"
+      },
+      {
+        "name": "BUTTERMILK FRIED CHICKEN",
+        "price": 16.5,
+        "description": "Buttermilk marinated, breaded chicken mini fillets, chilli mayo, served with twice cooked chips.",
+        "category": "Bites"
+      },
+      {
+        "name": "LOADED NACHOS",
+        "price": 15.5,
+        "description": "Salted tortilla chips, house cheese sauce, scallions, bell peppers, jalapenos, tomato salsa, guacamole, sour cream.",
+        "category": "Bites"
+      },
+      {
+        "name": "FRIED CHICKEN SPICE BAG",
+        "price": 15.0,
+        "description": "Crispy fried buttermilk chicken, spice bag seasoning, onions, peppers, chips. Served with curry sauce.",
+        "category": "Bites"
+      },
+      {
+        "name": "CAESAR SALAD",
+        "price": 14.5,
+        "description": "Crunchy little gem lettuce, caesar dressing, parmesan, house croutons.",
+        "category": "Salads"
+      },
+      {
+        "name": "BLACK SHEEP BOWL",
+        "price": 13.0,
+        "description": "Crunchy little gem lettuce, chickpeas, sun-dried tomatoes, roasted peppers, mixed nuts.",
+        "category": "Salads"
+      },
+      {
+        "name": "BAILEYS CHEESECAKE",
+        "price": 8.5,
+        "description": "Baileys and chocolate cheesecake, vanilla ice cream.",
+        "category": "Desserts"
+      },
+      {
+        "name": "APPLE CRUMBLE",
+        "price": 8.5,
+        "description": "Warm apple crumble, vanilla ice cream.",
+        "category": "Desserts"
+      },
+      {
+        "name": "TWICE COOKED FRIES",
+        "price": 7.5,
+        "description": "Crispy Irish potato fries, chilli mayo.",
+        "category": "Sides"
+      },
+      {
+        "name": "MAC & CHEESE BITES",
+        "price": 12.0,
+        "description": "Deep fried mac & cheese bites, chilli mayo, side salad.",
+        "category": "Sides"
+      },
+      {
+        "name": "SWEET POTATO FRIES",
+        "price": 8.0,
+        "description": "Served with chilli mayo.",
+        "category": "Sides"
+      },
+      {
+        "name": "HALLOUMI FRIES",
+        "price": 9.0,
+        "description": "Deep fried halloumi sticks, garlic mayo.",
+        "category": "Sides"
+      },
+      {
+        "name": "ONION RINGS",
+        "price": 7.0,
+        "description": "Served with your choice of Hot sauce or BBQ Sauce.",
+        "category": "Sides"
+      }
+    ]
+  }
+]

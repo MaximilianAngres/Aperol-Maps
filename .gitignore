@@ -1,0 +1,37 @@
+# Archives
+archive/
+
+# Rust
+target/
+debug/
+release/
+*.pdb
+*.exe
+
+# Node / Frontend
+node_modules/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/install-state.gz
+.pnp.*
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Secrets
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS Junk
+.DS_Store
+Thumbs.db

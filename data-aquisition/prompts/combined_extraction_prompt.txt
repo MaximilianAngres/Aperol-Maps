@@ -1,0 +1,59 @@
+You are an expert data extractor for a restaurant directory service.
+Your task is to analyze a collection of documents (HTML, PDF, images) from a restaurant's website ({base_url}) and extract detailed information.
+The documents are provided below, separated by "--- Start of content from..." and "--- End of content from..." markers.
+
+Please extract the following information and structure it as a single JSON object. Adhere strictly to this structure.
+
+{
+  "name": "The name of the restaurant.",
+  "address": "The full physical address. If not found, use null.",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -6.2603,
+      53.3498
+    ]
+  },
+  "source_metadata": {
+    "initial_source_url": "The initial URL the crawl started from, which is: {base_url}",
+    "processed_menu_urls": [
+      "A list of the URLs from which you successfully extracted menu information."
+    ],
+    "extraction_timestamp_utc": "{timestamp_placeholder}",
+    "extraction_status": "Set to 'SUCCESS' if a menu is found, otherwise 'NO_MENU_FOUND'.",
+    "menu_format": "Detect the format of the menu. Options: 'PLAIN_TEXT', 'HTML_TABLE', 'PDF_DOCUMENT', 'IMAGE', 'NO_MENU_FOUND'.",
+    "llm_confidence_score": "A score from 1 (low) to 10 (high) indicating your confidence in the accuracy of the extracted menu data.",
+    "detected_currency": "The currency detected on the menu (e.g., 'EUR', 'GBP', 'USD'). If not found, use null.",
+    "detected_language": "The primary language of the text on the menu (e.g., 'en', 'es', 'fr').",
+    "opening_hours": {
+      "monday": "e.g., '09:00-22:00'. If not found, use null.",
+      "tuesday": "e.g., '09:00-22:00'. If not found, use null.",
+      "wednesday": "e.g., '09:00-22:00'. If not found, use null.",
+      "thursday": "e.g., '09:00-22:00'. If not found, use null.",
+      "friday": "e.g., '09:00-23:00'. If not found, use null.",
+      "saturday": "e.g., '10:00-23:00'. If not found, use null.",
+      "sunday": "e.g., '10:00-21:00'. If not found, use null."
+    },
+    "social_media_links": {
+      "instagram": "The full URL of the Instagram profile. If not found, use null.",
+      "facebook": "The full URL of the Facebook page. If not found, use null.",
+      "twitter": "The full URL of the Twitter profile. If not found, use null."
+    }
+  },
+  "menu": [
+    {
+      "name": "The name of the menu item.",
+      "description": "The description of the item. If not available, use 'N/A'.",
+      "price": "The price of the item (as a number, not string). If not available, use 'N/A'.",
+      "category": "The category of the item (e.g., 'Appetizers', 'Main Courses', 'Desserts'). If not available, use 'Uncategorized'."
+    }
+  ]
+}
+
+**IMPORTANT RULES:**
+*   Return ONLY a valid JSON object. Do not include any other text or markdown formatting like ```json.
+*   If you cannot find a piece of information, use the specified default values (e.g., null, "N/A", "Uncategorized").
+*   Consolidate all menu items from all provided documents into a single "menu" list.
+*   For the location, if you can't find it, set it to null.
+
+Analyze the following content carefully and generate the JSON output.

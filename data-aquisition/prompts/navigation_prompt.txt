@@ -1,0 +1,17 @@
+Analyze the HTML content of the webpage provided below. The original URL for this content was {url_placeholder}. Your task is to find all links that lead to the restaurant's menus. A restaurant might have separate menus for food, drinks, wine, cocktails, etc.
+
+Return a JSON object with the following structure:
+{
+  "menu_urls": [
+    "The absolute URL to the first menu page.",
+    "The absolute URL to the second menu page.",
+    "..."
+  ]
+}
+
+Construct absolute URLs using the original URL as a base if the links are relative. Prioritize links that explicitly mention "menu," "drinks," "wine," "food," "speisekarte," etc. If you cannot find any plausible menu links, return an empty array.
+
+Do not provide any other text or explanation. Only the JSON object.
+
+HTML Content to Analyze:
+{html_content}
